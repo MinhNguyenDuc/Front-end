@@ -1,0 +1,19 @@
+h1 {
+	text-transform: uppercase;
+}
+.red-word {
+	color: red;
+}
+p {
+	font-family: Tahoma;
+	font-size: 11px;
+}
+#green-word {
+	color: green;
+}
+.blue-word {
+	color: blue;
+}
+.list-style {
+	font-family: consolas
+}
